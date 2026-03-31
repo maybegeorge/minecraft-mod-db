@@ -7,6 +7,14 @@
             "dependencies": ["create"],
             "compatibility": ["create:0.5.1j"],
             "modjson": "" 
+        },
+        {
+            "name": "create",
+            "description": "Aesthetic Technology that empowers the Player.",
+            "tags": ["technology", "automation", "redstone", "decoration"],
+            "dependencies": [],
+            "compatibility": [],
+            "modjson": ""
         }
     ],
     "modpacks": []
