@@ -12,7 +12,7 @@
             "name": "create",
             "description": "Aesthetic Technology that empowers the Player.",
             "tags": ["technology", "automation", "redstone", "decoration"],
-            "author": "",
+            "author": "simibubi",
             "icon": "",
             "modjson": "https://raw.githubusercontent.com/maybegeorge/minecraft-mod-db/refs/heads/main/jsons/create.json"
         }
