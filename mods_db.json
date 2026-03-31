@@ -6,7 +6,8 @@
             "tags": ["example", "demo"],
             "author": "",
             "icon": "",
-            "modjson": "" 
+            "modjson": "",
+            "addon_for": []
         },
         {
             "name": "create",
@@ -14,7 +15,8 @@
             "tags": ["technology", "automation", "redstone", "decoration"],
             "author": "simibubi",
             "icon": "",
-            "modjson": "https://raw.githubusercontent.com/maybegeorge/minecraft-mod-db/refs/heads/main/jsons/create.json"
+            "modjson": "https://raw.githubusercontent.com/maybegeorge/minecraft-mod-db/refs/heads/main/jsons/create.json",
+            "addon_for": []
         }
     ],
     "modpacks": []
