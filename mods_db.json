@@ -4,16 +4,16 @@
             "name": "example-mod",
             "description": "An example mod for demonstration purposes.",
             "tags": ["example", "demo"],
-            "dependencies": ["create"],
-            "compatibility": ["create:0.5.1j"],
+            "author": "",
+            "icon": "",
             "modjson": "" 
         },
         {
             "name": "create",
             "description": "Aesthetic Technology that empowers the Player.",
             "tags": ["technology", "automation", "redstone", "decoration"],
-            "dependencies": [],
-            "compatibility": [],
+            "author": "",
+            "icon": "",
             "modjson": ""
         }
     ],
