@@ -14,7 +14,7 @@
             "tags": ["technology", "automation", "redstone", "decoration"],
             "author": "",
             "icon": "",
-            "modjson": ""
+            "modjson": "https://raw.githubusercontent.com/maybegeorge/minecraft-mod-db/refs/heads/main/jsons/create.json"
         }
     ],
     "modpacks": []
