@@ -8,7 +8,8 @@
             "icon": "",
             "modjson": "",
             "addon_for": [],
-            "modloaders": []
+            "modloaders": [],
+            "versions": ["1.20.1"]
         },
         {
             "name": "create",
@@ -18,7 +19,8 @@
             "icon": "",
             "modjson": "https://raw.githubusercontent.com/maybegeorge/minecraft-mod-db/refs/heads/main/jsons/create.json",
             "addon_for": [],
-            "modloaders": ["forge", "neoforge"]
+            "modloaders": ["forge", "neoforge"],
+            "versions": ["1.18.2", "1.19.2", "1.20.1", "1.21.1"]
         }
     ],
     "modpacks": []
