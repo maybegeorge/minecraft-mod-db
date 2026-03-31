@@ -7,7 +7,8 @@
             "author": "",
             "icon": "",
             "modjson": "",
-            "addon_for": []
+            "addon_for": [],
+            "modloaders": []
         },
         {
             "name": "create",
@@ -16,7 +17,8 @@
             "author": "simibubi",
             "icon": "",
             "modjson": "https://raw.githubusercontent.com/maybegeorge/minecraft-mod-db/refs/heads/main/jsons/create.json",
-            "addon_for": []
+            "addon_for": [],
+            "modloaders": ["forge", "neoforge"]
         }
     ],
     "modpacks": []
